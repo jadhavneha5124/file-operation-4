@@ -1,5 +1,6 @@
 #Assignment NO 5
 #Task 1
+
 a=input("enter the student name:")
 D={"neha":83,"sanika":80,"rutuja":75,"jayshree":70}
 if a in D:
